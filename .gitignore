@@ -18,3 +18,5 @@
 /MC_1_21_8/target/
 /MC_1_21_8/pom.xml.versionsBackup
 /.paper-nms/
+
+*.iml
